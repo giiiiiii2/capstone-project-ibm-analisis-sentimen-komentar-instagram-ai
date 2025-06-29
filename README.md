@@ -21,8 +21,8 @@ Proyek ini bertujuan untuk menganalisis sentimen publik terhadap kasus kontrover
 - Memberikan insight terhadap perilaku dan persepsi masyarakat digital dalam menyikapi isu moral
 
 ## Teknologi & Metode yang Digunakan
-- Text Preprocessing**: lowercase, hapus simbol, hapus link, normalisasi spasi
-- Model AI**: [TextBlob](https://textblob.readthedocs.io/) untuk analisis sentimen berbasis NLP
+- Text Preprocessing: lowercase, hapus simbol, hapus link, normalisasi spasi
+- Model AI: [TextBlob](https://textblob.readthedocs.io/) untuk analisis sentimen berbasis NLP
 - Visualisasi:
   - Pie chart: distribusi sentimen
   - Wordcloud: kata-kata yang paling sering muncul
@@ -36,7 +36,7 @@ Proyek ini bertujuan untuk menganalisis sentimen publik terhadap kasus kontrover
 ## Kesimpulan
 Masyarakat Indonesia di media sosial bereaksi keras terhadap konten yang dianggap tidak etis.
 Analisis ini menunjukkan adanya **kesadaran moral kolektif** dari netizen dalam menjaga nilai sosial.
-Platform digital disarankan untuk meningkatkan **moderasi konten sensitif**, dan pemerintah bisa menggunakannya sebagai indikator respon publik terhadap isu viral.
+Platform digital disarankan untuk meningkatkan moderasi konten sensitif, dan pemerintah bisa menggunakannya sebagai indikator respon publik terhadap isu viral.
 
 ---
 
