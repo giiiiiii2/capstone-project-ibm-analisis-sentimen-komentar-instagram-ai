@@ -43,4 +43,5 @@ Platform digital disarankan untuk meningkatkan moderasi konten sensitif, dan pem
 > Disusun oleh:
 > Anggita Setiawati
 > Capstone Project –  
-
+> Data Classification and Summarization Using IBM Granite
+> Student Development Initiative
