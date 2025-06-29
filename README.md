@@ -1,5 +1,5 @@
 ## Judul project : Analisis Sentimen Komentar Instagram terhadap Kasus Fantasi Sedarah Menggunakan AI
-
+---
 ## Deskripsi project
 Proyek ini bertujuan untuk menganalisis sentimen publik terhadap kasus kontroversial "Fantasi Sedarah" yang ramai dibahas di media sosial Instagram. Dengan memanfaatkan teknologi Artificial Intelligence (AI), khususnya analisis sentimen berbasis Natural Language Processing (NLP), ribuan komentar publik dianalisis untuk mengetahui persepsi, emosi, dan opini masyarakat digital terhadap konten yang dianggap melanggar norma sosial dan etika.
 
