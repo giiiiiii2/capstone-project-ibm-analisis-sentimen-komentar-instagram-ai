@@ -40,8 +40,7 @@ Platform digital disarankan untuk meningkatkan moderasi konten sensitif, dan pem
 
 ---
 
-## Disusun oleh:
-Anggita Setiawati
-Capstone Project –  
-Universitas Tadulako – 2025
+> Disusun oleh:
+> Anggita Setiawati
+> Capstone Project –  
 
